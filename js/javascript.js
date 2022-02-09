@@ -6,4 +6,8 @@ let bodmas = (4 + 6 - 9) / 779 * a
 console.log(bodmas)
 console.log(b)
 
+function favoriteAnimal(animal) {
+  console.log(animal + " is my favorite animal!")
+}
 
+favoriteAnimal('Sheep')
